@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>双梦记</title>
+  <subtitle>梦境真子集的补集</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2016-11-21T12:15:37.000Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>alpacanist</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>通宵后新博客诞生</title>
+    <link href="http://yoursite.com/2016/2016-11-21/"/>
+    <id>http://yoursite.com/2016/2016-11-21/</id>
+    <published>2016-11-21T12:14:37.000Z</published>
+    <updated>2016-11-21T12:15:37.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>实际上是件令人气愤的事情，因为老博客不知怎么的渲染失败，可能要重装。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;实际上是件令人气愤的事情，因为老博客不知怎么的渲染失败，可能要重装。&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
